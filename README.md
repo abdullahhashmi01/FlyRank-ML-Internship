@@ -1,4 +1,4 @@
-# FlyRank ML Internship — Starter Repo
+# FlyRank ML Internship
 
 **Applied Search Intelligence: Google Search Ranking & Discoverability**
 
